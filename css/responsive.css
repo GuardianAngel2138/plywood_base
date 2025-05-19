@@ -1,0 +1,171 @@
+@media (min-width:991px) {
+.respo-img{
+    display: none;
+}
+}
+@media (max-width:992px) {
+    .section-header{
+    position: relative;
+    /* background-color: black; */
+}
+.ply-infos{
+    padding: 20px 10px;
+}
+.ply-dt-info i{
+    font-size: 28px;
+}
+.ply-dt-info li p span {
+    font-size: 22px;
+}
+.info-image{
+    display: none;
+}
+  .navbar-nav .nav-link {
+    color: #000 !important; /* Use !important to override Bootstrap defaults */
+  }
+  .section-header2{
+    display: none;
+  }
+}
+@media (max-width:575px) {
+.ply-dt-info i{
+    font-size: 24px;
+}
+.ply-dt-info li p span {
+    font-size: 20px;
+}
+}
+@media (max-width:992px) {
+.page-logo img{
+    display: none;
+}
+}
+@media (max-width:992px) {
+.carousel-caption{
+    top:30%;
+}
+.carousel-caption h2 {
+    font-size: 30px;
+}
+.btn-slider{
+    font-size: 12px;
+}
+}
+@media (max-width:825px) {
+.carousel-caption{
+    top:28%;
+}
+.carousel-caption h2 {
+    font-size: 29px;
+}
+.btn-slider{
+    font-size: 12px;
+}
+}
+@media (max-width:791px) {
+.carousel-caption{
+    top:25%;
+}
+.carousel-caption h2 {
+    font-size: 28px;
+}
+.carousel-caption p{
+    display: none;
+}
+.btn-slider{
+    padding: 10px;
+}
+}
+
+@media (max-width:570px) {
+.carousel-caption{
+    top:15%;
+}
+.carousel-caption h2 {
+    font-size: 18px;
+}
+.btn-slider{
+    padding: 5px;
+}
+}
+
+@media (max-width:400px) {
+.carousel-caption{
+    top:10%;
+}
+.carousel-caption h2 {
+    font-size: 14px;
+}
+.btn-slider{
+    padding: 2px;
+}
+}
+@media (max-width:992px) {
+.section-title h2{
+    font-size: 36px;
+}
+
+.section-title p{
+    font-size: 18px;
+ }
+.contact-div img{
+    width:48px;
+}
+.contact-list p{
+    font-size: 18px;
+}
+}
+@media (max-width:767px) {
+.section-title h2{
+    font-size: 32px;
+}
+
+.section-title p{
+    font-size: 18px;
+ }
+.contact-div img{
+    width:48px;
+}
+.contact-list p{
+    font-size: 18px;
+}
+}
+@media (max-width:400px) {
+.section-title h2{
+    font-size: 30px;
+}
+
+.section-title p{
+    font-size: 16px;
+ }
+.contact-div img{
+    width:40px;
+}
+.contact-list p{
+    font-size: 16px;
+}
+}
+@media (max-width:991px) {
+.abiut_images_main {
+    width: 100%;
+    position: relative;
+}
+
+img.image_1 {
+    width: 100%;
+    position: relative;
+    float: none;
+}
+
+img.image_2 {
+    width: 100%;
+    position: relative;
+    float: none;
+    top:0;
+    left:0;
+}
+.abiut_images_main .abt:last-child{
+    display: none;
+}
+
+}
